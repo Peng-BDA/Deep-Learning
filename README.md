@@ -10,7 +10,7 @@ When the test error starts to grow, stop training.
 Penal large weight
 
 3. Injecting noise to Input
-$c= \sum_{i=1}^n || f(x_i + n_i) - y_i ||^2$
+$c= \sum_{i=1}^{n} || f(x_i + n_i) - y_i ||^2$
 where $n_i$ is a noise instance.
 
 4. Dropout
