@@ -1,5 +1,5 @@
 # Deep-Learning
-Algorithms code and books I read
+Algorithms code and books I read \
 Life sucks. 
 
 ## Regularization Techniques
